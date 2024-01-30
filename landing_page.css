@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #bbb812;
+  background-color: #a19f01;
   color: #fff;
 }
 
@@ -149,7 +149,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #bbb812;
+  background-color: #a19f01;
   padding: 20px 0;
 }
 
